@@ -2,4 +2,5 @@ gitの勉強を始めるよ
 
 2回目のコミットを行うよ
 
-checkout
+checkout練習
+git commit --amend練習
