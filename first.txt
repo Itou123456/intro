@@ -6,3 +6,4 @@ checkout練習
 git commit --amend練習
 
 git fetchの学習
+git pullのがくしゅう
